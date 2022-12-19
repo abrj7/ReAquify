@@ -31,8 +31,7 @@ This is a technology developed by [NASA Scientists aboard the ISS](https://techn
 
 ### Modifications to the original designs:
 As the original design @ISS used an electrical current to convert the power into microwave signals, it would be extremely difficult to enable this in rural, underdeveloped parts of the world where electricity is a huge issue.
-To tackle this, we integrated a solar panel charged batery p![Uploading Screen Shot 2022-11-06 at 11.15.50 PM.png…]()
-ack in the device that makes use of teh solar cells to power it during the day, and also simultaneously charge itself for use during the night.
+To tackle this, we integrated a solar panel charged batery pack in the device that makes use of the solar cells to power it during the day, and also simultaneously charge itself for use during the night.
 
 ### Modelling the device
 ![Screen Shot 2022-11-06 at 11 16 16 PM](https://user-images.githubusercontent.com/68309049/200192955-ba424419-1174-4028-9adf-f06fecf6b1a3.png)
