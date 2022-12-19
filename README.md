@@ -1,4 +1,4 @@
-# ReAquify Solution for the TKS Hacakathon
+# ReAquify Solution for the TKS Hackathon
 
 Contributors: [@AdoredSky](https://github.com/SJ3357208)
 
